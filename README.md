@@ -1,5 +1,6 @@
 <h1 align="center">Klaudiusz Sołtysik</h1>
-<h3 align="center">Programming passionate</h3>
+<h2 align="center">Programming passionate</h2>
+<h3 align="center">Student of automatic controls and robotics. In addition to studying, I am working/studying at Volkswagen Poznań and learning programming on my own.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaudiuszsoltysik&label=Profile%20views&color=0e75b6&style=flat" alt="klaudiuszsoltysik" /> </p>
 
