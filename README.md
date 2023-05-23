@@ -1,8 +1,8 @@
-<h1 align="center">Klaudiusz Sołtysik</h1>
-<h2 align="center">Programming passionate</h2>
+<h1>Klaudiusz Sołtysik</h1>
+<h2>Programming passionate</h2>
 <h3>Student of automatic controls and robotics. In addition to studying, I am working/studying at Volkswagen Poznań and learning programming on my own.</h3>
 
-- 🌱 I’m currently learning **embedded engineering**
+- 🌱 I’m currently learning **embedded software engineering**
 
 - 📫 How to reach me **klaudiusz.s1405@gmail.com**
 
