@@ -31,6 +31,6 @@
    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klaudiuszsoltysik&show_icons=true&locale=en&layout=compact" alt="klaudiuszsoltysik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klaudiuszsoltysik&show_icons=true&theme=dark&bg_color=0d1117&locale=en&layout=compact" alt="klaudiuszsoltysik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klaudiuszsoltysik&show_icons=true&locale=en" alt="klaudiuszsoltysik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klaudiuszsoltysik&show_icons=true&theme=dark&bg_color=0d1117&locale=en" alt="klaudiuszsoltysik" /></p>
