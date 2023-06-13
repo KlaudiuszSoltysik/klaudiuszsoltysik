@@ -3,9 +3,6 @@
 <h3>Student of automatic controls and robotics. In addition to studying, I am working/studying at Volkswagen Poznań and learning programming on my own.</h3>
 
 - 🌱 I’m currently learning **embedded software engineering**
-
-- 📫 How to reach me **klaudiusz.s1405@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing](https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -32,5 +29,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klaudiuszsoltysik&show_icons=true&theme=dark&bg_color=0d1117&locale=en&layout=compact" alt="klaudiuszsoltysik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klaudiuszsoltysik&show_icons=true&theme=dark&bg_color=0d1117&locale=en" alt="klaudiuszsoltysik" /></p>
