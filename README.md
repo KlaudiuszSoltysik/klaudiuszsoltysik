@@ -3,7 +3,7 @@
 <h3>Student of automatic controls and robotics. In addition to studying, I am working/studying at Volkswagen Poznań and learning programming on my own.</h3>
 
 - 🌱 I’m currently learning **embedded software engineering, robotics and C++**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing](https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
