@@ -1,10 +1,17 @@
 <h1>Klaudiusz Sołtysik</h1>
-<h2>Programming passionate</h2>
-<h3>Student of automatic controls and robotics.</h3>
-In addition to studying, I am working/studying at Volkswagen Poznań and learning programming on my own.
-
-- 🌱 I’m currently learning **PLC programming**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing)
+<h2>🎓 Automatic Control & Robotics Student | 💼 Intern at Volkswagen Poznań</h2>
+I’m studying Automatic Control and Robotics and interning at Volkswagen Poznań, gaining hands-on experience in industrial automation.
+</br>
+</br>
+In my free time, I focus on:
+</br>• 💻 Programming: IT and industrial (PLC, robots, ROS, SCADA, fullstack, mobile).
+</br>• 🌍 Learning German to improve my communication skills.
+</br>
+</br>
+Passionate about automation, robotics, and coding, I’m eager to apply my skills in innovative projects.
+</br>
+</br>
+📄 [Know about my experiences](https://drive.google.com/file/d/1cJvk2JkslIJlqHrnOmCHCFqi51tmyq8A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
