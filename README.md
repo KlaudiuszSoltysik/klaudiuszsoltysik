@@ -32,6 +32,7 @@ My goal is to integrate robust software solutions with physical industrial syste
 #### 💻 Software Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -41,17 +42,19 @@ My goal is to integrate robust software solutions with physical industrial syste
 #### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 #### 🏭 Industrial Automation (OT)
-![PLC](https://img.shields.io/badge/PLC-Siemens-009999?style=flat-square)
-![Ignition](https://img.shields.io/badge/Ignition_SCADA-F7901E?style=flat-square)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-grey?style=flat-square)
-![Robotics](https://img.shields.io/badge/Industrial_Robots-red?style=flat-square)
-![ST/LAD](https://img.shields.io/badge/ST_/_LAD-blue?style=flat-square)
+![PLC](https://img.shields.io/badge/PLC-Siemens-009999?style=flat-square&logo=siemens&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-grey?style=flat-square&logo=siemens&logoColor=white)
+![STEP 7](https://img.shields.io/badge/STEP_7-009999?style=flat-square&logo=siemens&logoColor=white)
+![ST/LAD](https://img.shields.io/badge/ST_/_LAD-005da0?style=flat-square)
+![Robotics](https://img.shields.io/badge/Industrial_Robots-red?style=flat-square&logo=abb&logoColor=white)
+![Ignition](https://img.shields.io/badge/Ignition_SCADA-F7901E?style=flat-square&logo=inductiveautomation&logoColor=white)
 
 #### 📊 Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
