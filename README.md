@@ -62,10 +62,10 @@ My goal is to integrate robust software solutions with physical industrial syste
 
 ---
 
-### 💼 Current position
+### 💼 Current Engagement
 
 #### **System Support Engineer** | Photon Energy Group
-*Feb 2026 - Present*
+*Feb 2026 - Present (Contract)*
 > *Focus: Linux Environments, Automation, Reliability*
 - Administer and troubleshoot Linux-based environments and field devices, ensuring high system availability.
 - Develop automation scripts to streamline maintenance, monitoring, and recurring operational tasks.
