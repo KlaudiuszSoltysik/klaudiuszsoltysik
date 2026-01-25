@@ -53,6 +53,7 @@ My goal is to integrate robust software solutions with physical industrial syste
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-grey?style=flat-square&logo=siemens&logoColor=white)
 ![STEP 7](https://img.shields.io/badge/STEP_7-009999?style=flat-square&logo=siemens&logoColor=white)
 ![ST/LAD](https://img.shields.io/badge/ST_/_LAD-005da0?style=flat-square)
+![HMI](https://img.shields.io/badge/HMI-Interface-blue?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Industrial_Robots-red?style=flat-square&logo=abb&logoColor=white)
 ![Ignition](https://img.shields.io/badge/Ignition_SCADA-F7901E?style=flat-square&logo=inductiveautomation&logoColor=white)
 
