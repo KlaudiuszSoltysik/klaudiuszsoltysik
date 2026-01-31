@@ -1,9 +1,7 @@
 <h1 align="center">Klaudiusz Sołtysik</h1>
-<h3 align="center">Software Engineer | DevOps | Industrial Automation Specialist</h3>
+<h3 align="center">Software Engineer | DevOps | SysOps</h3>
 
-<p align="center">
-  Bridging the gap between <strong>Industrial Operation Technology (OT)</strong> and modern <strong>Information Technology (IT)</strong>.
-</p>
+My professional interests lie at the intersection of Backend Development, DevOps, and Cloud. I don't see them as separate silos. My background is grounded in industrial automation (PLCs, SCADA), which taught me system reliability from the hardware up.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/klaudiusz-so%c5%82tysik-949b73247/?locale=en_us">
@@ -19,15 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I am a passionate engineer with a unique background combining **Software Development**, **Cloud/DevOps**, and **Industrial Automation**. Currently pursuing a Master's degree in Computer Science focused on Mobile Apps and IoT at Poznan University of Technology. 
-
-My goal is to integrate robust software solutions with physical industrial systems to create efficient, automated environments.
-
----
-
-<h3 align="center">🛠️ Technical Skills</h3>
+### 🛠️ Technical Skills
 
 <div align="center">
   <table>
@@ -101,8 +91,7 @@ My goal is to integrate robust software solutions with physical industrial syste
 ### 💼 Current Engagement
 
 #### **System Support Engineer** | Photon Energy Group
-*Feb 2026 - Present (Contract)*
-> *Focus: Linux Environments, Automation, Reliability*
+*02.2026 - Present (Contract)*
 - Administer and troubleshoot Linux-based environments and field devices, ensuring high system availability.
 - Develop automation scripts to streamline maintenance, monitoring, and recurring operational tasks.
 - Collaborate with dev teams to diagnose software issues and implement bug fixes.
@@ -112,11 +101,11 @@ My goal is to integrate robust software solutions with physical industrial syste
 
 ### 🎓 Education
 
-**M.S. in Computer Science** (Mobile Applications & IoT)
-*Poznan University of Technology | 2025 - 2027*
+**M.S. in Computer Science** (Mobile Applications and Internet of Things)
+*Poznan University of Technology | 10.2025 - 06.2027*
 
 **B.E. in Automatic Control and Robotics**
-*Poznan University of Technology | 2021 - 2025*
+*Poznan University of Technology | 10.2021 - 02.2025*
 
 ---
 
