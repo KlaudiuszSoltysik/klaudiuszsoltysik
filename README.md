@@ -90,7 +90,7 @@ My professional interests lie at the intersection of Backend Development, DevOps
 
 ### 💼 Current Engagement
 
-#### **System Support Engineer** | Photon Energy Group
+#### **Site Reliability Engineer** | Photon Energy Group
 *02.2026 - Present (Contract)*
 - Administer and troubleshoot Linux-based environments and field devices, ensuring high system availability.
 - Develop automation scripts to streamline maintenance, monitoring, and recurring operational tasks.
