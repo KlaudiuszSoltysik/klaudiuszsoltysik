@@ -32,10 +32,11 @@ My professional interests lie at the intersection of Backend Development, DevOps
       <tr>
         <td align="center" valign="middle"><b>💻 Software Development</b></td>
         <td align="center" valign="middle">
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
           <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+          <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/IoT-0078D4?style=flat" />
         </td>
         <td align="center" valign="middle">
           <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
@@ -49,14 +50,17 @@ My professional interests lie at the intersection of Backend Development, DevOps
         <td align="center" valign="middle"><b>☁️ DevOps & Cloud</b></td>
         <td align="center" valign="middle">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-          <img src="https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
         </td>
         <td align="center" valign="middle">
-          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
           <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
+          <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
         </td>
       </tr>
       <tr>
