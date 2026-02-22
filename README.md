@@ -96,10 +96,10 @@ My professional interests lie at the intersection of Backend Development, DevOps
 
 #### **Site Reliability Engineer** | Photon Energy Group
 *02.2026 - Present (Contract)*
-- Administer and troubleshoot Linux-based environments and field devices, ensuring high system availability.
-- Develop automation scripts to streamline maintenance, monitoring, and recurring operational tasks.
-- Collaborate with dev teams to diagnose software issues and implement bug fixes.
-- Optimize internal workflows by evaluating operational data and maintaining technical documentation.
+- Administer diverse Linux-based IoT environments and Kubernetes clusters, taking full independent ownership of production stability.
+- Resolve complex technical incidents within legacy systems by performing advanced debugging and log analysis across SQL and NoSQL databases.
+- Engineer automation tools and custom scripts to eliminate repetitive operational tasks and accelerate incident response times.
+- Navigate a highly fragmented and undocumented technology stack, implementing critical fixes and ensuring system reliability without direct developer support.
 
 ---
 
